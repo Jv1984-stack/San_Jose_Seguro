@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "700537331543",
+    "project_id": "san-jose-seguro",
+    "storage_bucket": "san-jose-seguro.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:700537331543:android:0cd497e35996d727a02812",
+        "android_client_info": {
+          "package_name": "com.example.san_jose_seguro"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJWzkxAXozZaO_KKNg5TK7S6cirFeR3UI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
